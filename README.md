@@ -1,16 +1,18 @@
-### Hi there 👋
+# Biblioteca de códigos y scripts de Johandry Cabrera
 
-<!--
-**JohandryC/JohandryC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dashboard para gestionar los documentos, archivos, scripts, porciones de código y gestión de carpetas para todos los códigos generados por Johandry Cabrera para GB Advisors. La intención de este documento es facilitar el movimiento entre documentos y carpetas en el repositorio.
 
-Here are some ideas to get you started:
+## Lista de carpetas por área o sección
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Wordpress]([JohandryC/Wordpress: Elementos creados por Johandry Cabrera para las paginas wordpress de GB Advisors (github.com)](https://github.com/JohandryC/Wordpress))
+	- [Globales]([Wordpress/Globales at main · JohandryC/Wordpress (github.com)](https://github.com/JohandryC/Wordpress/tree/main/Globales))
+	- [Estilos]([Wordpress/Estilos at main · JohandryC/Wordpress (github.com)](https://github.com/JohandryC/Wordpress/tree/main/Estilos))
+	- [Funciones]([Wordpress/Funciones at main · JohandryC/Wordpress (github.com)](https://github.com/JohandryC/Wordpress/tree/main/Funciones))
+- Vtiger
+	- Globales
+	- Funciones
+	- Componentes
+- Zapier
+	- Globales
+	- Integraciones
+	- API Designer
