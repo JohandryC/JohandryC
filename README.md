@@ -8,10 +8,10 @@ Dashboard para gestionar los documentos, archivos, scripts, porciones de código
 	- [Globales](https://github.com/JohandryC/Wordpress/tree/main/Globales)
 	- [Estilos](https://github.com/JohandryC/Wordpress/tree/main/Estilos)
 	- [Funciones](https://github.com/JohandryC/Wordpress/tree/main/Funciones)
-- Vtiger
+- [Vtiger](https://github.com/JohandryC/Vtiger)
 	- Globales
-	- Funciones
-	- Componentes
+	- [API Desginer](https://github.com/JohandryC/Vtiger/tree/main/API%20Designer)
+	- [Componentes](https://github.com/JohandryC/Vtiger/tree/main/Componentes)
 - Zapier
 	- Globales
 	- Integraciones
