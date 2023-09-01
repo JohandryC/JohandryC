@@ -4,10 +4,10 @@ Dashboard para gestionar los documentos, archivos, scripts, porciones de código
 
 ## Lista de carpetas por área o sección
 
-- [Wordpress]([JohandryC/Wordpress: Elementos creados por Johandry Cabrera para las paginas wordpress de GB Advisors (github.com)](https://github.com/JohandryC/Wordpress))
-	- [Globales]([Wordpress/Globales at main · JohandryC/Wordpress (github.com)](https://github.com/JohandryC/Wordpress/tree/main/Globales))
-	- [Estilos]([Wordpress/Estilos at main · JohandryC/Wordpress (github.com)](https://github.com/JohandryC/Wordpress/tree/main/Estilos))
-	- [Funciones]([Wordpress/Funciones at main · JohandryC/Wordpress (github.com)](https://github.com/JohandryC/Wordpress/tree/main/Funciones))
+- [Wordpress](https://github.com/JohandryC/Wordpress)
+	- [Globales](https://github.com/JohandryC/Wordpress/tree/main/Globales)
+	- [Estilos](https://github.com/JohandryC/Wordpress/tree/main/Estilos)
+	- [Funciones](https://github.com/JohandryC/Wordpress/tree/main/Funciones)
 - Vtiger
 	- Globales
 	- Funciones
